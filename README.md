@@ -2,7 +2,7 @@
 ## Time Series Forecasting with Temporal Fusion Transformers
 
 Based on: Lim, Bryan & Arik, Sercan & Loeff, Nicolas & Pfister, Tomas. (2019). Temporal Fusion
-Transformers for Interpretable Multi-horizon Time Series Forecasting
+Transformers for Interpretable Multi-horizon Time Series Forecasting \
 Paper: https://arxiv.org/pdf/1912.09363.pdf
 
 Proposal: https://github.com/damu4/tft-forecast/raw/main/proposal.pdf
